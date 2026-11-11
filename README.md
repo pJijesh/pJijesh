@@ -1,4 +1,4 @@
-<h1 align="center">Puliyappottammal Jijesh</h1>
+<p align="center"><img src="banner.png" alt="Puliyappottammal Jijesh, IT Manager in Greater London: IT leadership, Microsoft 365 security, architecture and AI governance" width="100%"></p>
 
 <p align="center">
   IT Manager in Greater London<br>
