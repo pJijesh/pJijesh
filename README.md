@@ -1,4 +1,4 @@
-<h1 align="center">Jijesh Puliyappottammal</h1>
+<h1 align="center">Puliyappottammal Jijesh</h1>
 
 <p align="center">
   IT Manager in Greater London<br>
