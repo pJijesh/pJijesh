@@ -16,6 +16,8 @@ I run IT for a mid-sized organisation and have spent more than 15 years in servi
 
 Every example uses fictional data. Each repository says plainly what has and has not been verified.
 
+If you only look at two: [eu-ai-act-tracker](https://github.com/pJijesh/eu-ai-act-tracker) for the regulatory side, and [m365-entra-security-audit](https://github.com/pJijesh/m365-entra-security-audit) for the hands-on security side.
+
 ## Repositories
 
 ### AI governance
@@ -24,6 +26,7 @@ Every example uses fictional data. Each repository says plainly what has and has
 |---|---|---|
 | [ai-governance-toolkit](https://github.com/pJijesh/ai-governance-toolkit) | Control matrix mapping ISO/IEC 42001, the EU AI Act and NIST AI RMF, with templates, worked examples and a validator | [![CI](https://github.com/pJijesh/ai-governance-toolkit/actions/workflows/ci.yml/badge.svg)](https://github.com/pJijesh/ai-governance-toolkit/actions/workflows/ci.yml) |
 | [eu-ai-act-risk-classifier](https://github.com/pJijesh/eu-ai-act-risk-classifier) | Answer a short questionnaire and get your EU AI Act risk tier, obligations and key dates | [![Tests](https://github.com/pJijesh/eu-ai-act-risk-classifier/actions/workflows/test.yml/badge.svg)](https://github.com/pJijesh/eu-ai-act-risk-classifier/actions/workflows/test.yml) |
+| [eu-ai-act-tracker](https://github.com/pJijesh/eu-ai-act-tracker) | Every EU AI Act application date with its articles and source, obligations by role, a calendar file and a small CLI. Reflects the Digital Omnibus | [![Tests](https://github.com/pJijesh/eu-ai-act-tracker/actions/workflows/test.yml/badge.svg)](https://github.com/pJijesh/eu-ai-act-tracker/actions/workflows/test.yml) |
 
 ### Identity and endpoint security
 
@@ -54,6 +57,12 @@ Every example uses fictional data. Each repository says plainly what has and has
 | [it-due-diligence-and-integration-playbook](https://github.com/pJijesh/it-due-diligence-and-integration-playbook) | IT due diligence and first 100 days integration playbook with a weighted question bank and scoring tool | [![Tests](https://github.com/pJijesh/it-due-diligence-and-integration-playbook/actions/workflows/test.yml/badge.svg)](https://github.com/pJijesh/it-due-diligence-and-integration-playbook/actions/workflows/test.yml) |
 | [cargowise-integration-patterns](https://github.com/pJijesh/cargowise-integration-patterns) | Independent reference for freight ERP integration: idempotency, retries and a dead-letter queue, with a working demo | [![CI](https://github.com/pJijesh/cargowise-integration-patterns/actions/workflows/ci.yml/badge.svg)](https://github.com/pJijesh/cargowise-integration-patterns/actions/workflows/ci.yml) |
 
+### Agent skills and developer tooling
+
+| Repository | What it is | Tests |
+|---|---|---|
+| [anti-slop-design](https://github.com/pJijesh/anti-slop-design) | A design skill and zero-dependency linter that steer pages away from the generic AI-generated look, for Claude Code, Codex, Cursor and OpenCode | [![Tests](https://github.com/pJijesh/anti-slop-design/actions/workflows/test.yml/badge.svg)](https://github.com/pJijesh/anti-slop-design/actions/workflows/test.yml) |
+
 ## Tools and areas
 
 ![Microsoft 365](https://img.shields.io/badge/Microsoft%20365-D83B01?logo=microsoft365&logoColor=white)
@@ -62,6 +71,7 @@ Every example uses fictional data. Each repository says plainly what has and has
 ![Azure](https://img.shields.io/badge/Azure-0078D4?logo=microsoftazure&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?logo=powershell&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white)
 ![ITIL Foundation](https://img.shields.io/badge/ITIL-Foundation-0F4C81)
 ![ISO/IEC 42001 trained](https://img.shields.io/badge/ISO%2FIEC%2042001-AI%20governance%20(trained)-2E7D32)
