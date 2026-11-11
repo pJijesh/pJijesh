@@ -63,9 +63,18 @@ Every example uses fictional data. Each repository says plainly what has and has
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?logo=powershell&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white)
-![ITIL](https://img.shields.io/badge/ITIL-0F4C81)
-![ISO/IEC 42001](https://img.shields.io/badge/ISO%2FIEC-42001-2E7D32)
-![ISO/IEC 27001](https://img.shields.io/badge/ISO%2FIEC-27001-2E7D32)
+![ITIL Foundation](https://img.shields.io/badge/ITIL-Foundation-0F4C81)
+![ISO/IEC 42001 trained](https://img.shields.io/badge/ISO%2FIEC%2042001-AI%20governance%20(trained)-2E7D32)
+![ISO/IEC 27001 audit support](https://img.shields.io/badge/ISO%2FIEC%2027001-audit%20support-2E7D32)
+
+## Credentials and education
+
+- **Education:** MSc Networks and Computer System Security, University of Greenwich; BSc Computer Science, University of Kerala
+- **Cloud and data:** Databricks Platform Architect (AWS, Azure, GCP) and Generative AI Fundamentals; Microsoft Azure AI Fundamentals; Boomi Associate Integration Architect
+- **Governance and compliance:** ISO/IEC 42001 AI governance training (CPD); GDPR Data Protection Officer, University of Derby; Microsoft Purview compliance (Applied Skills); CSCMP Generative AI for Supply Chain
+- **Service and delivery:** ITIL Foundation; PRINCE2; PMI Agile Foundations; BCS Business Analysis Foundation
+- **Infrastructure and security:** CompTIA Network+; Red Hat Certified Engineer (RHCE); CNSS Certified Network Security Specialist
+- **Author:** *The AI Governance Playbook*
 
 ## Get in touch
 
