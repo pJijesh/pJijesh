@@ -66,6 +66,8 @@ If you only look at two: [eu-ai-act-tracker](https://github.com/pJijesh/eu-ai-ac
 |---|---|---|
 | [anti-slop-design](https://github.com/pJijesh/anti-slop-design) | A design skill and zero-dependency linter that steer pages away from the generic AI-generated look, for Claude Code, Codex, Cursor and OpenCode | [![Tests](https://github.com/pJijesh/anti-slop-design/actions/workflows/test.yml/badge.svg)](https://github.com/pJijesh/anti-slop-design/actions/workflows/test.yml) |
 | [it-admin-agent-guardrails](https://github.com/pJijesh/it-admin-agent-guardrails) | A skill and 26-rule checker that keep PowerShell administration scripts written by AI agents read-only or dry-run by default | [![Tests](https://github.com/pJijesh/it-admin-agent-guardrails/actions/workflows/test.yml/badge.svg)](https://github.com/pJijesh/it-admin-agent-guardrails/actions/workflows/test.yml) |
+| [evidence-audit-skill](https://github.com/pJijesh/evidence-audit-skill) | A security audit skill where every confirmed finding quotes the code it stands on, checked by script | [![Tests](https://github.com/pJijesh/evidence-audit-skill/actions/workflows/test.yml/badge.svg)](https://github.com/pJijesh/evidence-audit-skill/actions/workflows/test.yml) |
+| [adr-skill](https://github.com/pJijesh/adr-skill) | A skill that writes honest architecture decision records, with a linter, status lifecycle and index | [![Tests](https://github.com/pJijesh/adr-skill/actions/workflows/test.yml/badge.svg)](https://github.com/pJijesh/adr-skill/actions/workflows/test.yml) |
 
 ## Tools and areas
 
